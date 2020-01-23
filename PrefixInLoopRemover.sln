@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29613.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PrefixInLoopRemover", "PrefixInLoopRemover\PrefixInLoopRemover\PrefixInLoopRemover.csproj", "{8C01373A-DC25-405F-98AD-15A447DC7B0E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrefixInLoopRemover.Vsix", "PrefixInLoopRemover\PrefixInLoopRemover.Vsix\PrefixInLoopRemover.Vsix.csproj", "{63A33686-1EA7-4AC8-8AFC-10632B026E21}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8C01373A-DC25-405F-98AD-15A447DC7B0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C01373A-DC25-405F-98AD-15A447DC7B0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C01373A-DC25-405F-98AD-15A447DC7B0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C01373A-DC25-405F-98AD-15A447DC7B0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63A33686-1EA7-4AC8-8AFC-10632B026E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63A33686-1EA7-4AC8-8AFC-10632B026E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63A33686-1EA7-4AC8-8AFC-10632B026E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63A33686-1EA7-4AC8-8AFC-10632B026E21}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C5650C9-C72F-4B82-AA01-18D0D725EB9A}
+	EndGlobalSection
+EndGlobal
